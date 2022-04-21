@@ -1,154 +1,162 @@
 [[Qt5QuickControls2]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a6711574bec21ddc6db281a24a4c35d525d7b344"
+git-tree-sha1 = "bfb490547b94b295b70a8e0cdf7f7663b1780825"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "6844207a72dabf998bcbf661a1fd6492db2f16f3fe6475b776ff4f74c67ec954"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "115de326f0c9898b3d634ebeae5410bdc42f50fc8088e31d2d6162090d66dab1"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.aarch64-linux-gnu-cxx03.tar.gz"
 [[Qt5QuickControls2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a9edda7bb4468d8260d5db2c0ecbb3c66eec1aa1"
+git-tree-sha1 = "2f5e08dd0462d6ce3164a473db7278068e3c0907"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "2ccc0c1863b9f34246fc9b39a04d5c66b12dfeae7f11ec48a6f37c4c5c95937a"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "f19fc4c54ae74cab32378bc07fbc66c847137a15d3cb05faecb28d28b559a31a"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.aarch64-linux-gnu-cxx11.tar.gz"
 [[Qt5QuickControls2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "56296af09593eedee1e0ea495c2ed83f12be82a5"
+git-tree-sha1 = "ff01072a4303a5d4187294c49224e617928a6f83"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "f1220fdfeddbac081567818d010d3a7759fd234078f78fbfb0c7e04f5eb15090"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "875c0f8e10ca1fe846c32fc74d9949f71395df396d1e9558b4456cc6815178b8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Qt5QuickControls2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "58b415a048f2b8211105a40fabb8995da25388da"
+git-tree-sha1 = "abf85d9b4c2f95f398e33ea1647aaec5d716eb8f"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "51cc41b727535aca3a46ccb0334463a4b03333bb10ba06d520788efae70e949e"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "7d880938f67e98985b89e29f847f57f5f9740e4b654f4316d011488e2974bdfa"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Qt5QuickControls2]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a7f688ec030f2446e941f5fa841889b519bca1ca"
+git-tree-sha1 = "b60bddda2a56c1ee1a1522a5e1e0bcd2d53519fa"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "76ea4ca0602b9d2dcdb1053ba06613eda81a70362d596faab3d9e4e4febf105e"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "ed2bab08bfaf68a75965405a299ceaac907c70be290fd51b28df2020d8be0e60"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.i686-linux-gnu-cxx03.tar.gz"
 [[Qt5QuickControls2]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4777f7c2221fb291e03b884e5de308c244c4cbc1"
+git-tree-sha1 = "bad53e7aa624420b080234d1af09b2c8b0edde71"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "9a8d562ffd58ed041d5365ad0812e07f5855db83df4f92f173c40f732b0f5c32"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "9964a5248f46d7770fa97f2c661f8bd843cc6562214c1da529069d69181436c8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.i686-linux-gnu-cxx11.tar.gz"
 [[Qt5QuickControls2]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "afdafa339bbde303acc7664f0b3ee74ae9fadfef"
+git-tree-sha1 = "8f3d3a672eb7cbe4dd69cc432aa3716c67b674f2"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "53ecab88a353e81d32d065d46857a38fecb70551df2933737c4b1aaab18b5c4b"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "06c135f379fe088c7ea34f2e3c27be6be7f8dee68d00605b9a9d073b1093d932"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Qt5QuickControls2]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "66a675f64b5b9767727ea0835048dca94f0fb491"
+git-tree-sha1 = "e1cff9d74374ac1730928b895d09a2b80e04bc59"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "1d0d7522ff35ed78aba390f4697638788e08b6888bc8af60adc9ca53ebfe0f3c"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "281ce2d4579704c3b9cbce5896dc10d6ea47477989948f18194c55c163a33904"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Qt5QuickControls2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "333e49e8babc351332c48dae8934459eac55eccb"
+git-tree-sha1 = "9748694bef404d5abdf7715e17e89a87aca7fb11"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "d2ab1ff1a99b978b189dba63d83a6b441623753e868ac81ceb61197b738afb4d"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "8961e7a19f124654187ee521a5f0b79049afb41a3e535e55c86e5b84956d7bb2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.x86_64-linux-gnu-cxx03.tar.gz"
 [[Qt5QuickControls2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f26765066d545753a8e1458ba7982f9764253741"
+git-tree-sha1 = "42150ba19cb2d87a81644c0cba103818b4555294"
 libc = "glibc"
 os = "linux"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "f846335c9471535dd89d49c24d7df04c55480d4100dd79b32c4843ef735da0bb"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "b73b9f26179e74274caa1545abf4d68d71a8ddb78f468dd1cbb8b86c63810bb1"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[Qt5QuickControls2]]
 arch = "x86_64"
-git-tree-sha1 = "c878425e49eeee44d3d64ad8e783b98e5f1c1aef"
+git-tree-sha1 = "55229ca03409775640908832c5f7ee19752b5606"
 os = "freebsd"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "5854be01f071b9c15644d6e40f01316d9d1df9dce0b109f0209540d94c7cc726"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "5445df9e9a0241be54011d2b365f91842cc09d2368c63d3b2924d5aa2943d06f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.x86_64-unknown-freebsd.tar.gz"
 [[Qt5QuickControls2]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "67f6bbc81440fe823ea653ba6ce43968578bdc69"
+git-tree-sha1 = "94a65f65194c9d1940bfa6fc7db07d67ec5064f8"
 os = "windows"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "7077c2c708df15180b241d8b9f6f48979e7a0a9374ebb20a9da3267a51693bfe"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "e3ba3de3fdabce148c64957ba43ee77384a4cb9cd202bcbac1efe8337d78eec6"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.i686-w64-mingw32-cxx03.tar.gz"
 [[Qt5QuickControls2]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82d2a2a9827a4fe22e8f9c66b4acd820d07f1627"
+git-tree-sha1 = "bf0835de020db4f64d5766f6ce02807b74c129bb"
 os = "windows"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "46b7c1ebaaeed9e102e71b41f4d1bbcf02ab5704d092959cdadbd116f61a384a"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "3de305570b0f2d6a343262904394d94648229194cc341366f73dc15969ee1fc8"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.i686-w64-mingw32-cxx11.tar.gz"
 [[Qt5QuickControls2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d3bb5e7dca919b2dba44839a2cf9b5974b469585"
+git-tree-sha1 = "37b9367769a098b1ced75dd44d21eb616e202b14"
 os = "windows"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "270f01022c3aa6329c75139a714c87d304d9b31393fe1bfa25d512b8b13e7423"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "c0b6205fa228a9e1d9d292837b7c41ada97133b9795d2fe7d91d9b315d1fea04"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Qt5QuickControls2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f9648d5e2baeada2d2fafb603aa64db9b5521f94"
+git-tree-sha1 = "2c49d4c852aa5e0a0107b39a5258c717ec86dbc3"
 os = "windows"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "1c6e1a632cd12e4c38d7d7a0b5b81df474d2954faddffc28fec705234bff9db7"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "74f6a0f6368b9a159fd15614676c23b19e8f45df3ac5bd79e25488511325626e"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.x86_64-w64-mingw32-cxx11.tar.gz"
 [[Qt5QuickControls2]]
-arch = "x86_64"
-git-tree-sha1 = "e5a27f4931e136964fb6901cb1589ffbfd7d424e"
+arch = "aarch64"
+git-tree-sha1 = "001421399c4e1d704deae6ca8f3d4bf4842a98ad"
 os = "macos"
 
     [[Qt5QuickControls2.download]]
-    sha256 = "5eebd968d452a627fb9a216923b2fdbcd66ecfaa85d705de4c3016cd8283aba4"
-    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "dafa6f1f0643a8373b60faf22463f16ad549dde53754170d3e2c2199a50c598d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.aarch64-apple-darwin.tar.gz"
+[[Qt5QuickControls2]]
+arch = "x86_64"
+git-tree-sha1 = "1354fcdce852001d4c0ba29defdfd26239f730db"
+os = "macos"
+
+    [[Qt5QuickControls2.download]]
+    sha256 = "10c7daa60304dc64c2af65988367ae41bb586a00ce7a376d6edffc834b6c00d0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.3+0/Qt5QuickControls2.v5.15.3.x86_64-apple-darwin.tar.gz"
